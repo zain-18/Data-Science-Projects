@@ -1,16 +1,18 @@
-# Heart Disease Prediction
+# Bakery Analysis and Association
  
  ### *Dataset* ###
- * Heart Disease dataset (kaggle)
+ * Bakery Dataset (Kaggle)
  
- ### *Supervised Learning Algo's* ###
- * Logistic Regressiom
- * Decision Tree
- * Random Forest
- * Ada Boost
- * XG Boost
+ ### *Libraries* ###
+ * pandas
+ * Matplotlib
+ * Seaborn
+ * mlxtend
  
- ### *Hyper parameter Tuning* ###
- * Grid Search CV
- * Random Search CV
+ 
+ ### *Frequent Patterns* ###
+ * Apriori
+ 
+ ### *Algo* ###
+ * Association_rules
  
