@@ -3,15 +3,14 @@
  ### *Dataset* ###
  * Mall_customer (Kaggle)
  
- ### *Clustering Algo* ###
- * K Means
- 
-  ### *Libraries* ###
+ ### *Libraries* ###
  * pandas
  * Matplotlib
  * Seaborn
  * Sklearn
-
+ 
+ ### *Clustering Algo* ###
+ * K Means
  
  ### *optimal number of clusters* ###
  * Elbow Technique
