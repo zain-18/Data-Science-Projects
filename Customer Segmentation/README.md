@@ -1,16 +1,19 @@
-# Heart Disease Prediction
+# Customer Segmentation
  
  ### *Dataset* ###
- * Heart Disease dataset (kaggle)
+ * Mall_customer (Kaggle)
  
- ### *Supervised Learning Algo's* ###
- * Logistic Regressiom
- * Decision Tree
- * Random Forest
- * Ada Boost
- * XG Boost
+ ### *Clustering Algo* ###
+ * K Means
  
- ### *Hyper parameter Tuning* ###
- * Grid Search CV
- * Random Search CV
+  ### *Libraries* ###
+ * pandas
+ * Matplotlib
+ * Seaborn
+ * Sklearn
+
+ 
+ ### *optimal number of clusters* ###
+ * Elbow Technique
+ * Silhouette Score
  
